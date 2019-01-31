@@ -1,5 +1,7 @@
 # Olli Arokari's SPMS project
 
+## [Link to the application](https://it-teaching-abo-akademi.github.io/2018-interactive-web-apps-project-MrPipa/)
+
 ## Checklist
 
 1. Create a portfolio (there can be multiple portfolios)
