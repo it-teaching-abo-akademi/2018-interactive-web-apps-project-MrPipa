@@ -1,5 +1,3 @@
-import "./msft.json";
-
 const API_KEY = "AKO1CDLP4S6165X3";     // Primary key
 // const API_KEY = "RPGJ4VR2ME19GAUX";  // Secondary key
 
