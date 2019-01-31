@@ -371,7 +371,7 @@ class App extends Component {
                 <Grid>
                     <Row className="header">
                         <Row>
-                            <span>Stock portfolio Manager</span>
+                            <span> Stock Portfolio Management System </span>
                         </Row>
                         <Row>
                             <Button function={this.addPortfolio.bind(this)} label="Add portfolio"/>
@@ -388,7 +388,7 @@ class App extends Component {
                 <Grid>
                     <Row className="header">
                         <Row>
-                            <span>Stock portfolio Manager</span>
+                            <span> Stock Portfolio Management System </span>
                         </Row>
                         <Row>
                             <Button function={this.addPortfolio.bind(this)} label="Add portfolio"/>
@@ -406,7 +406,7 @@ class App extends Component {
                 <Grid>
                     <Row className="header">
                         <Row>
-                            <span>Stock portfolio Manager</span>
+                            <span> Stock Portfolio Management System </span>
                         </Row>
                         <Row>
                             <Button function={this.addPortfolio.bind(this)} label="Add portfolio"/>
