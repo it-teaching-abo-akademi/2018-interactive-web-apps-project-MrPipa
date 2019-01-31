@@ -41,17 +41,10 @@ body {
     padding: 15px 25px;
     margin: 20px;
 }
-
-.pf-header {
-
-}
 .pf-header span {
     font-size: 25px;
     color:white;
 }
-
-
-
 
 table {
     width: 100%;
@@ -102,6 +95,7 @@ label {
 }
 
 .graphContainer {
+    background-color: white;
     width: 100%;
     padding-left: 5%;
 }
